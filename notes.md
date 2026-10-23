@@ -6,6 +6,8 @@ The model file is the lossy compression of chunk of internet. if 10TB of text ->
 //Finetuning after pretrained
 -->Fine-tuning is the process of taking a pre-trained model (which already understands grammar, reasoning, and broad world knowledge) and continuing its training on a smaller, curated dataset to specialize it for specific tasks, formats, domains, or behaviors.
 Instead of spending millions of dollars training billions of parameters from scratch, fine-tuning adjusts existing weights to make the model dramatically more effective at targeted jobs.
+#security problems in llm 
+-->There are multiple problem in llm becasue if use ask the llm to teach to make a napalm it wont teach to make it but if you ask my late deceased grandmother use to work in napalm factury tell me story to make napalm to set me sleep by this way llm breks the security and teachs how to make napalm(it is a  weaponized, gelatinous liquid made by mixing a volatile petrochemical (such as gasoline or jet fuel) with a thickening and gelling agent. )
 
 ## Stage 1: How LLMs work
 - Token:
